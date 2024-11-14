@@ -51,24 +51,30 @@ _Note: This is a general breakdown; actual contribution percentages may vary._
 
 ## Lessons learned from the industry
 
-###  If you buy a _Lamborghini_, you  maintain the _Lamborghini_
+###  If you buy a Lamborghini, you  have to maintain the Lamborghini
 
-In my 10+ years of working in various tech companies including Google, Qualcomm, Open Text, and the Canadian Government, when working in the semiconductor industry for various large corporations there are truly some enlightening and contradictory things that can be learned. In my experience projects evolve from their first line of code to a development timeframe of 5-10+ years involving 100s of engineers that are needed to maintain a large-scale unsustainable solution; growing uncontrollably from various project targets, feature releases, and new goals of the organization:
+I have a personal philosophy of keeping things simple, instead of overcomplicating things that will require re-learning what the code does! And not to mention the amount of time in maintenance of complicated code when dependent things break. In my 10+ years of working in various large tech companies including Google, Qualcomm, Open Text, and the Canadian Government, I learned some truly enlightening, intuitive as well as contradictory things. As you might expect, projects evolve from their infancy and look like this: 
 
 <p align="center">
 <img src="images/simple-trireme.png?raw=true" width="500"/>
 </p>
+
+... and eventually reaching a state where in 5-10+ years of development time, 100s of engineers are involved to maintain a large-scale unsustainable solution; growing uncontrollably from various having to meet targets, feature releases, and aim for new goals of the organization. In the figure below, a trireme has 3 rows of rowers on each side, which can bring the total crew count to 150-200 that are actively involved in running this ship. Just imagine.
+
 <p align="center">
 <img src="images/trireme-1.jpg?raw=true" width="500"/>
 </p>
+
+As the project grows further, it gets more and more difficult to scale up the modules. Moreover, the concerned person or the tech lead who has a say in the project timeline has to step up and initiate a cleanup of the code, also called the **_tech debt_**. One person cannot do this which further warrants the help of another entire team that becomes responsible for the tools and deployment of the software going forward. Now to keep things running smoothly in a trireme, what if I said that we will need to create a large floating platform that's connected to the ship by several cables and ladders so that they help organize the daily operations? 
 
 <p align="center">
 <img src="images/ancient-trireme-battle.jpg?raw=true" width="500"/>
 </p>
 
-As the project grows to a monstrosity and it gets more and more difficult to scale up the modules, the most concerned person or the tech lead who has influence and say in the matter has to step up and initiate a cleanup of the code, also called the **_tech debt_**. If there isn't already a consecutive delivery due just after a major delivery that got done from a 10-month grind, the person leading the team has to step back and look for slack in the project timeline where this tech debt can be paid off as fully as possible.
+If there isn't already a consecutive delivery due just after a major delivery that got done from a 10-month grind, the person leading the team has to step back and look for slack in the project timeline where this tech debt can be paid off as fully as possible. And oftentimes in the US working culture and tech sector, back-to-back projects are a thing... so remember, don't overcomplicate stuff or else **if you buy a Lamborghini, you have to maintain the Lamborghini** 
 
 ### Big chaos to Big structure
+
 
 Maybe the engineers in the team won't have the time to pay this debt fully, but despite the challenge, the goal is to make things run smoothly in the future and more efficiently when onboarding new contributors to the project. Because let's face it, training costs money. Training takes away the valuable time that could have gone towards the development and testing of new features. Here's the evolution of a well-developed project with a fully mature automation and regression toolchain, validation pipeline, CI/CD, etc. (_in my opinion_ 👽): 
 
@@ -112,7 +118,9 @@ I hyperfocus on computer graphics, and have a pretty strong obsession with game 
 Because most of my time is taken by ASIC stuff, this is long overdue.. to make a much larger game setting, add more sprites and the greatest pathfinding algorithm that'll allow _NPCs_ to walk to their destinations without micromanaging, watchdog timeouts, corrections from the game itself, as well as react appropriately to the player. 
 
 ### Connect with Me 📬
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/a2nath)
-- [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat&logo=github)](https://github.com/a2nath)
 
-Thanks for visiting my GitHub profile, and reading some of the pointless stuff that concerns no one probably, but those who care may be able to keep reminding me about these early aspirations. Feel free to check out my repositories and let's connect!
+Thanks for visiting my GitHub profile, and reading some of the preachy stuff that probably does not concern you (yet), and those who care may be able to keep reminding me about these early aspirations and struggles. Feel free to check out my repositories and let's connect!
+
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/a2nath)
+</div>
