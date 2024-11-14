@@ -100,7 +100,7 @@ It is counter-intuitive, I know.
 <img src="images/simple-trireme.png?raw=true" width="500"/>
 </p>
 
-In the ASIC industry, by doing this, we're also cutting down clock cycles and more importantly ASIC power. Less code that passes the test coverage including edge conditions while not creating a scope of more bugs or edge conditions is a win! 🍑 _Less code is a smaller attack surface, and therefore, less is truly more_. 💨
+In the ASIC industry, by doing this, we're also cutting down clock cycles and more importantly ASIC power. Less code that passes the test coverage including edge conditions while reducing the chances of bugs appearing or covering more edge conditions is a win! 🍑 _Less code is a smaller attack surface, and therefore, less is truly more_. 💨
 <br/>
 
 ## Back to the README
