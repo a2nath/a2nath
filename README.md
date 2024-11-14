@@ -109,9 +109,9 @@ I hyperfocus on computer graphics, and have a pretty strong obsession with game 
 <img src="https://raw.githubusercontent.com/a2nath/Unreal-Engine-Project/refs/heads/main/images/screencap8.png?raw=true" width="800"/>
 </p>
 
-Because most of my time is taken by ASIC stuff, this is long overdue.. to make a much larger game setting, add more sprites and the greatest pathfinding algorithm that'll allow _NPCs_ to walk to their destinations without micromanaging or watchdog timeouts or corrections from the game engine itself. As well as react appropriately to the player. 
+Because most of my time is taken by ASIC stuff, this is long overdue.. to make a much larger game setting, add more sprites and the greatest pathfinding algorithm that'll allow _NPCs_ to walk to their destinations without micromanaging, watchdog timeouts, corrections from the game itself, as well as react appropriately to the player. 
 
-### 📬 Connect with Me
+### Connect with Me 📬
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/a2nath)
 - [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat&logo=github)](https://github.com/a2nath)
 
