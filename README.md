@@ -15,22 +15,25 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="images/v-ger-bot.jpg?raw=true" width="300"/>
+<img src="images/v-ger-bot.jpg?raw=true" width="100%"/>
 </p>
 
 # 🖖 Welcome Carbon Unit! (_human_) 
 I'm Abhimanyu, a passionate developer and builder of good things ✨(_the goal_). Some folks call me "A Bee" or Obhi, who truly believe in me and trust me to be working on real-world solutions with a major positive impact 🌠🌠. While that may be true, I usually work on stuff that fascinates me the most and which eventually turns out to be **impactful** and **interesting** enough that people take over it to further research and development. I’m always learning new technologies and improving my skills in computer science, and computer games.  🎮
 
 
+
 ## 👽 About Me 
 
 ### Current Projects
 
-I’m currently working on innovative projects in **[Linear Phase Array](https://github.com/a2nath/Linear-Phased-Array)** that visualizes antenna patterns for linear scan arrays. Another project that has always fascinated me is wireless over long distances **[Wi-Fi LongDistance](https://github.com/a2nath/Long-Distance-Wi-Fi-802.11)** which demonstrates the feasibility of packets traveling over several kilometers if frequency and propagation-times were not an issue (_modified **IEEE802.11** communication protocol_) over VHF/UHF bands
+I’m currently working on innovative projects in **[Linear Phase Array](https://github.com/a2nath/Linear-Phased-Array)** that help visualize antenna patterns for linear scan arrays. Another project that has always fascinated me is wireless over long distances **[Wi-Fi LongDistance](https://github.com/a2nath/Long-Distance-Wi-Fi-802.11)** which demonstrates the feasibility of packets traveling over several kilometers if frequency and propagation times were not an issue (_modified **IEEE802.11** communication protocol_) over VHF/UHF bands
 
 <br/>
 <p align="center">
-<img src="images/inside-v-ger.jpg?raw=true" width="800"/>
+  
+![state1](https://github.com/user-attachments/assets/223a7708-45ff-4390-b27d-18d3034b3ff8)![state2](https://github.com/user-attachments/assets/f317e05c-b304-42bf-8086-0b0f0c53389e)![state3](https://github.com/user-attachments/assets/37b21828-2dae-4574-81bf-127a6dbe52db)![state4](https://github.com/user-attachments/assets/ebc46bb3-d969-4150-88fb-a6bfbfb5c12e)
+
 </p>
 <br/>
 
