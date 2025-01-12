@@ -13,16 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center">
 <img src="images/v-ger-bot.jpg?raw=true" width="100%"/>
 </p>
 
+
 # 🖖 Welcome Carbon Unit! (_human_) 
 I'm Abhimanyu, a passionate developer and builder of good things ✨(_the goal_). Some folks call me "A Bee" or Obhi, who truly believe in me and trust me to be working on real-world solutions with a major positive impact 🌠🌠. While that may be true, I usually work on stuff that fascinates me the most and which eventually turns out to be **impactful** and **interesting** enough that people take over it to further research and development. I’m always learning new technologies and improving my skills in computer science, and computer games.  🎮
 
-
-
+  
 ## 👽 About Me 
 
 ### Current Projects
@@ -37,18 +36,9 @@ I’m currently working on innovative projects in **[Linear Phase Array](https:/
 </p>
 <br/>
 
-### My Coding Breakdown
 
-I love writing `C++` projects with scripted wrappers. Something close to low level such as `C` and `C++` helps me with performance code that will run complex calculations quickly such as in simulations and hardware modeling. Any ASIC or IP modeling helps me simulate the part of the chip behavior that is valuable in the design and analysis phase. Then wrap it up with `python`, `bash` and other scripting languages to compile and run the code (`cmake`, `bash`).
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a2nath&layout=pie)
-
-_Note: This is a general breakdown; actual contribution percentages may vary._
-
-</div>
-<br/>
+<details>
+  <summary>more about me</summary>
 
 ## Lessons learned from the industry
 
@@ -72,7 +62,7 @@ As the project grows further, it gets more and more difficult to scale up the mo
 <img src="images/ancient-trireme-battle.jpg?raw=true" width="500"/>
 </p>
 
-If there isn't already a consecutive delivery due just after a major delivery that got done from a 10-month grind, the person leading the team has to step back and look for slack in the project timeline where this tech debt can be paid off as fully as possible. And oftentimes in the US working culture and tech sector, back-to-back projects are a thing... so remember, don't overcomplicate stuff or else **if you buy a Lamborghini, you have to maintain the Lamborghini** 
+If there isn't already a consecutive delivery due just after a major delivery that got done from a 10-month grind, the person leading the team has to step back and look for slack in the project timeline where this tech debt can be paid off as fully as possible. And oftentimes in the tech sector, back-to-back projects are a thing... so remember, don't overcomplicate stuff or else **if you buy a Lamborghini, you have to maintain the Lamborghini** 
 
 
 <p align="center">
@@ -80,56 +70,35 @@ If there isn't already a consecutive delivery due just after a major delivery th
 </p>
 <br/>
 
-### It is Counter-Intuitive
-
-
-Maybe the engineers in the team won't have the time to pay this debt fully, but despite the challenge, the goal is to make things run smoothly in the future and more efficiently when onboarding new contributors to the project. Because let's face it, training costs money. Training takes away the valuable time that could have gone towards the development and testing of new features. If we did things right the first time and added more slack in the project timeline, this is the evolution of a large-scale, **LEAN** project:
-
-<p align="center">
-<img src="images/ancient-trireme-battle.jpg?raw=true" width="500"/>
-</p>
-
-The engineering hours spent during that slack time (_not the messenger_ ) are worth more than the chaos of trying to connect the various cables and ladders from neighboring teams and working around minefields that if touched accidentally, will cause the whole stack to explode. Yes, I'm talking about both a trireme just as much as a large codebase.🥴
-
-<p align="center">
-<img src="images/trireme-1.jpg?raw=true" width="500"/>
-</p>
-
-Here's the evolution of a well-developed project with a fully mature automation and regression toolchain, validation pipeline, CI/CD, etc. (_in my opinion_ 👽). Yes, it does look super simple, and yet it can be complex the more a developer in your team digs deeper, but the "feeling" is never that it's complicated.
-
-It is counter-intuitive, I know. 
-
-<p align="center">
-<img src="images/simple-trireme.png?raw=true" width="500"/>
-</p>
-
-In the ASIC industry, by doing this, we're also cutting down clock cycles and more importantly ASIC power. Less code that passes the test coverage including edge conditions while reducing the chances of bugs appearing or covering more edge conditions is a win! 🍑 _Less code is a smaller attack surface, and therefore, less is truly more_. 💨
-<br/>
-
-## Back to the README
-
-### Collaborate with me
-
-If someone has the statistical probability model for the unit conversions in the original _Age of Empires,_ please [dm](https://discord.gg/RDth4bMH6v) me! 📢 
-I would like to look at the algorithm and plot some probability graphs against the modern versions for fun. ⚔️ 🛡️ 🗡️
+In a well-developed project the evolution of a project as it matures has automated testing, regression toolchain, and a thorough validation pipeline, CI/CD, etc. (_in my opinion_ 👽). Yes, it does look super simple, and yet it can be complex the more a developer in your team digs deeper, but the "feeling" is never that it's complicated. It is counter-intuitive.
 
 <br/>
-<p align="center">
-<img src="images/throw-my-hands.png?raw=true" width="300"/>
-</p>
 
-Just kidding, we can collaborate on just about anything that's interesting. 
 
-### Fun fact
 
-I hyperfocus on computer graphics, and have a pretty strong obsession with game engine stuff, but I hope some alternate version of me in this multiverse is an _Age of Empires_ developer at **_Forgotten Empires_**, who is enjoying everything that life has to offer. Here's an example of a house I made in **_Unreal Engine 4.0_** with a fireplace and some cozy chairs. Because most of my time is taken by ASIC stuff, this is long overdue for me: to make a much larger game setting, add more sprites and the greatest pathfinding algorithm that'll allow _NPCs_ to walk to their destinations without micromanaging, watchdog timeouts, corrections from the game itself, as well as react appropriately to the player. 
+</details>
+
+## Pending Projects
+
+This is long overdue for me—to make a much larger game setting, add more sprites, and use the greatest pathfinding algorithm that'll allow NPCs to walk to their destinations without micromanaging, watchdog timeouts, corrections from the game itself, or reacting appropriately to the player. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/a2nath/Unreal-Engine-Project/refs/heads/main/images/screencap8.png?raw=true" width="800"/>
 </p>
 <br/>
 
-### Connect with Me 📬
+## My Coding Breakdown
+
+I love writing `C++` projects with scripted wrappers to drive the core binary. Something close to low-level such as `C` and `C++` helps with understanding the chip behavior, which is valuable in the system design and pre-silicon stage as well as risk-analysis of power and performance. `Python` has also been pretty instrumental in deploying tools quickly and writing custom MDPs that will interact with AI tools such as Open AI's [Gymnasium](https://github.com/Farama-Foundation/Gymnasium).
+<br/>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a2nath&layout=pie)
+
+</div>
+
+## Connect with Me 📬
 
 Thanks for visiting my GitHub profile, and reading some of the preachy stuff that probably does not concern you (yet), and those who care may be able to keep reminding me about these early aspirations and struggles. Feel free to check out my repositories and let's connect!
 
