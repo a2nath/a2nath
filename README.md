@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<img src="images/v-ger-bot.jpg?raw=true" width="100%"/>
-</p>
-
+![welcome](https://github.com/user-attachments/assets/8ddde24a-a21e-4452-966d-68e8b084affa)
 
 # 🖖 Welcome Carbon Unit! (_human_) 
 I'm Abhimanyu, a passionate developer and builder of good things ✨(_the goal_). Some folks call me "A Bee" or Obhi, who truly believe in me and trust me to be working on real-world solutions with a major positive impact 🌠🌠. While that may be true, I usually work on stuff that fascinates me the most and which eventually turns out to be **impactful** and **interesting** enough that people take over it to further research and development. I’m always learning new technologies and improving my skills in computer science, and computer games.  🎮
